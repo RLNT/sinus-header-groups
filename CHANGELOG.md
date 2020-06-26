@@ -11,9 +11,9 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 
 ## [Released]
 
-## [1.0.0] - 2020-06-26
+## [2.0.0] - 2020-06-26
 
-- initial release
+- initial release of the rewrite
 
 ---
 
@@ -24,4 +24,4 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 <!-- Versions -->
 [Unreleased]: https://github.com/RLNT/sinus-header-groups/compare/v1.0.0...HEAD
 [Released]: https://github.com/RLNT/sinus-header-groups/releases
-[1.0.0]: https://github.com/RLNT/sinus-header-groups/releases/v1.0.0
+[2.0.0]: https://github.com/RLNT/sinus-header-groups/releases/v1.0.0
