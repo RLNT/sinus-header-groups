@@ -1,0 +1,17 @@
+{
+    "name": "sinus-header-groups",
+    "version": "2.0.0",
+    "description": "With this script, the bot will automatically assign or remove header groups if at least one of the corresponding trigger groups is assigned or all are removed.",
+    "license": "MIT",
+    "author": "",
+    "main": "",
+    "scripts": {},
+    "dependencies": {
+        "sinusbot-scripting-engine": "^1.0.18"
+    },
+    "devDependencies": {
+        "eslint": "^7.3.1",
+        "prettier": "^2.0.5",
+        "prettier-plugin-package": "^1.0.0"
+    }
+}
